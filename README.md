@@ -1,4 +1,4 @@
-# Letspu.sh February Treadmill Data Visualization
+# Orange Theory February Treadmill Data Visualization
 
 Accessible here: [https://ajayk1931.github.io/demo-ot-graph/](https://ajayk1931.github.io/demo-ot-graph/)
 
